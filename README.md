@@ -1,6 +1,6 @@
 # Frontend Mentor: solución de aplicación generadora de consejos
 
-Esta es una solución al [desafío de la aplicación generadora de consejos en Frontend Mentor] (https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
+Esta es una solución al [desafío de la aplicación generadora de consejos en Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
 
 ## Tabla de contenido
 
@@ -12,7 +12,6 @@ Esta es una solución al [desafío de la aplicación generadora de consejos en F
   - [Construido con](#construido-con)
   - [Lo que aprendí](#lo-que-aprendí)
   - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos útiles](#recursos-útiles)
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
 
@@ -43,10 +42,9 @@ Esta es una solución al [desafío de la aplicación generadora de consejos en F
   - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
-  - [Construido con](#construido con)
+  - [Construido con](#construido-con)
   - [Lo que aprendí](#lo-que-aprendí)
   - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos útiles](#recursos-útiles)
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
 
@@ -70,8 +68,8 @@ Los usuarios deberían poder:
 
 ### Enlaces
 
-- URL de la solución: [Agregue la URL de la solución aquí](https://github.com/Torres2000/advice-generator-app-main)
-- URL del sitio en vivo: [Agregue la URL del sitio en vivo aquí]()
+- URL de la solución: [https://github.com/Torres2000/advice-generator-app-main](https://github.com/Torres2000/advice-generator-app-main)
+- URL del sitio en vivo: [https://generador-de-concejos.netlify.app/](https://generador-de-concejos.netlify.app/)
 
 ## Mi proceso
 
@@ -82,9 +80,9 @@ Los usuarios deberían poder:
 - Caja flexible
 - Cuadrícula CSS
 - Flujo de trabajo móvil primero
-- [React] (https://reactjs.org/) - Biblioteca JS
+- [React](https://reactjs.org/) - Biblioteca JS
 
-### Que aprendí
+### Lo que aprendí
 
 Aprendi a como mostrar los datos de una api utilizando ReactJS
 
@@ -108,7 +106,7 @@ Necesito aprender mas sobre el uso del de los hooks en react
 ## Autor
 
 - Sitio web - [Pedro Torres](https://portfolio-web-dev-jose.netlify.app/)
-- Mentor de frontend - [@tTorres2000](https://www.frontendmentor.io/profile/Torres2000)
+- Mentor de frontend - [@Torres2000](https://www.frontendmentor.io/profile/Torres2000)
 
 ## Agradecimientos
 
