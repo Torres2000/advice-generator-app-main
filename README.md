@@ -33,7 +33,7 @@ Los usuarios deberían poder:
 
 # Frontend Mentor: solución de aplicación generadora de consejos
 
-Esta es una solución al [desafío de la aplicación generadora de consejos en Frontend Mentor] (https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
+Esta es una solución al [desafío de la aplicación generadora de consejos en Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
 
 ## Tabla de contenido
 
