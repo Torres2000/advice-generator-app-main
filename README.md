@@ -72,7 +72,7 @@ Necesito aprender mas sobre el uso del de los hooks en react
 
 ## Autor
 
-- Sitio web - [Pedro Torres](https://portfolio-web-dev-jose.netlify.app/)
+- Sitio web - [Pedro Torres](https://portafolio-web-dev-jose.netlify.app/)
 - Mentor de frontend - [@Torres2000](https://www.frontendmentor.io/profile/Torres2000)
 
 ## Agradecimientos
